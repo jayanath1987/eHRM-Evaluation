@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Company Evaluation Information Summary</source>
+                <target>நிறுவனம் மதிப்பீட்டு தகவல் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Define Company Evaluation Information</source>
+                <target>நிறுவன மதிப்பீட்டு தகவல் வரையறை</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Edit Company Evaluation Information</source>
+                <target>நிறுவன மதிப்பீட்டு தகவல் திருத்து</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Evaluation Summary</source>
+                <target>மதிப்பீட்டு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>Define Evaluation</source>
+                <target>மதிப்பீட்டு வரையறுக்க</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Edit  Evaluation</source>
+                <target>மதிப்பீட்டு திருத்து</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>Evaluation Code</source>
+                <target>மதிப்பீட்டு குறியீடு</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Evaluation Name</source>
+                <target>மதிப்பீட்டு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Evaluation Description</source>
+                <target>மதிப்பீட்டு விவரம்</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Evaluation Year</source>
+                <target>மதிப்பீட்டு ஆண்டு</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Overall Rating</source>
+                <target>ஒட்டுமொத்த மதிப்பீடு</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>Evaluation</source>
+                <target>மதிப்பாய்வு</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>Designation</source>
+                <target>பதவி</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>Level</source>
+                <target>நிலை</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Service</source>
+                <target>சேவை</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>Job Role</source>
+                <target>வேலை பாத்திரம்</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>Weightage</source>
+                <target>Weightage</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>Evaluation ID</source>
+                <target>மதிப்பீட்டு எண்</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>Active</source>
+                <target>செயலில்</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>Inactive</source>
+                <target>ஜடமான</target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>Job Title</source>
+                <target>வேலை தலைப்பு</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>Service Name</source>
+                <target>சேவை பெயர்</target>
+            </trans-unit>
+            <trans-unit id="23">
+                <source>Project Weightage</source>
+                <target>திட்டம் Weightage</target>
+            </trans-unit>
+            <trans-unit id="24">
+                <source>Duties Weightage</source>
+                <target>கடமைகள் Weightage</target>
+            </trans-unit>
+            <trans-unit id="25">
+                <source>Duty Group Summary</source>
+                <target>கடமை குழு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>Define Duty Group</source>
+                <target>வரி குழு வரையறை</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>Duty Group Code</source>
+                <target>கடமை குழு குறியீடு</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>Duty Group Name</source>
+                <target>கடமை குழு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="29">
+                <source>Duty Group</source>
+                <target>கடமை குழு</target>
+            </trans-unit>
+            <trans-unit id="30">
+                <source>Duty Group Description</source>
+                <target>கடமை குழு விவரம்</target>
+            </trans-unit>
+            <trans-unit id="31">
+                <source>Edit Duty Group</source>
+                <target>வரி குழுவை திருத்தவும்</target>
+            </trans-unit>
+            <trans-unit id="32">
+                <source>Duty Summary</source>
+                <target>கடமை சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="33">
+                <source>Define Duty</source>
+                <target>வரி வரையறுக்க</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>Edit Duty</source>
+                <target>வரி திருத்து</target>
+            </trans-unit>
+            <trans-unit id="35">
+                <source>Duty Code</source>
+                <target>கடமை கோட்</target>
+            </trans-unit>
+            <trans-unit id="36">
+                <source>Duty Name</source>
+                <target>கடமை பெயர்</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Duty</source>
+                <target>கடமை</target>
+            </trans-unit>
+            <trans-unit id="38">
+                <source>Duty Description</source>
+                <target>கடமை விவரம்</target>
+            </trans-unit>
+            <trans-unit id="39">
+                <source>Rating Method</source>
+                <target>மதிப்பீடு முறை</target>
+            </trans-unit>
+            <trans-unit id="40">
+                <source>Rate Summary</source>
+                <target>விகிதம் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="41">
+                <source>Rate Code</source>
+                <target>விகிதம் கோட்</target>
+            </trans-unit>
+            <trans-unit id="42">
+                <source>Edit Rate</source>
+                <target>விகிதம் திருத்து</target>
+            </trans-unit>
+            <trans-unit id="43">
+                <source>Rate</source>
+                <target>விலை</target>
+            </trans-unit>
+            <trans-unit id="44">
+                <source>Define Rating Method</source>
+                <target>மதிப்பீடு முறை வரையறுக்க</target>
+            </trans-unit>
+            <trans-unit id="45">
+                <source>Rating Method Code</source>
+                <target>மதிப்பீடு முறை கோட்</target>
+            </trans-unit>
+            <trans-unit id="46">
+                <source>Rating Method Name</source>
+                <target>மதிப்பீடு முறை பெயர்</target>
+            </trans-unit>
+            <trans-unit id="47">
+                <source>Rating Method Description</source>
+                <target>மதிப்பீடு முறை விளக்கம்</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>Numbers</source>
+                <target>எண்கள்</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>Text</source>
+                <target>உரை</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>Number of Rating Method Items</source>
+                <target>மதிப்பீடு முறை விடயங்கள் எண்ணிக்கை</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>Grade</source>
+                <target>கிரேடு</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>Marks</source>
+                <target>மதிப்பெண்கள்</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>Generate Rating Method</source>
+                <target>மதிப்பீடு முறை உருவாக்க</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>Assign Supervisor</source>
+                <target>மேற்பார்வையாளர் ஒதுக்க</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>Supervisor Name</source>
+                <target>மேற்பார்வையாளர் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>Assign Employee Summary</source>
+                <target>பணியாளர் சுருக்கம் ஒதுக்க</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>Assign Employee</source>
+                <target>பணியாளர் ஒதுக்க</target>
+            </trans-unit>
+            <trans-unit id="59">
+                <source>Evaluation Type</source>
+                <target>மதிப்பீட்டு அமைப்பு</target>
+            </trans-unit>
+            <trans-unit id="60">
+                <source>Add Employee</source>
+                <target>பணியாளர் சேர்க்க</target>
+            </trans-unit>
+            <trans-unit id="61">
+                <source>Emp ID</source>
+                <target>EMP ஐடி</target>
+            </trans-unit>
+            <trans-unit id="62">
+                <source>Employee ID</source>
+                <target>பணியாளர் ID</target>
+            </trans-unit>
+            <trans-unit id="63">
+                <source>Project Evaluation</source>
+                <target>திட்ட மதிப்பீட்டு</target>
+            </trans-unit>
+            <trans-unit id="64">
+                <source>Completed</source>
+                <target>நிறைவு</target>
+            </trans-unit>
+            <trans-unit id="65">
+                <source>Weightage</source>
+                <target>Weightage</target>
+            </trans-unit>
+            <trans-unit id="66">
+                <source>Project Evaluation Rating</source>
+                <target>திட்ட மதிப்பீட்டு மதிப்பீடு</target>
+            </trans-unit>
+            <trans-unit id="67">
+                <source>Duty Evaluation</source>
+                <target>கடமை மதிப்பீட்டு</target>
+            </trans-unit>
+            <trans-unit id="68">
+                <source>Duty Evaluation Rating</source>
+                <target>கடமை மதிப்பீட்டு மதிப்பீடு</target>
+            </trans-unit>
+            <trans-unit id="69">
+                <source>Overall Performance Rating</source>
+                <target>ஒட்டுமொத்த செயல்திறன் மதிப்பீடு</target>
+            </trans-unit>
+            <trans-unit id="70">
+                <source>Overall Comment</source>
+                <target>ஒட்டுமொத்த கருத்து</target>
+            </trans-unit>
+            <trans-unit id="71">
+                <source>Grade -</source>
+                <target>கிரேடு -</target>
+            </trans-unit>
+            <trans-unit id="72">
+                <source>Description -</source>
+                <target>விளக்கம் -</target>
+            </trans-unit>
+            <trans-unit id="73">
+                <source>Submit</source>
+                <target>Submit '</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Calculate Overall Performance</source>
+                <target>மொத்த திறன் கணக்கிட</target>
+            </trans-unit>
+            <trans-unit id="74">
+                <source>Calculate</source>
+                <target>கணக்கிட</target>
+            </trans-unit>
+            <trans-unit id="75">
+                <source>Sub Duty</source>
+                <target>துணை வரி</target>
+            </trans-unit>
+            <trans-unit id="76">
+                <source>Rating</source>
+                <target>மதிப்பீடு</target>
+            </trans-unit>
+            <trans-unit id="77">
+                <source>SDO Project Evaluation</source>
+                <target>SDO திட்ட மதிப்பீட்டு</target>
+            </trans-unit>
+            <trans-unit id="78">
+                <source>Suggested Rating</source>
+                <target>பரிந்துரைக்கப்பட்ட மதிப்பீடு</target>
+            </trans-unit>
+            <trans-unit id="79">
+                <source>Pending</source>
+                <target>நிலுவையில்</target>
+            </trans-unit>
+            <trans-unit id="80">
+                <source>Maximum length should be 10 characters</source>
+                <target>அதிகபட்ச நீளம் 10 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="81">
+                <source>Maximum length should be 100 characters</source>
+                <target>அதிகபட்ச நீளம் 100 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="82">
+                <source>Please enter digits</source>
+                <target>இலக்கங்கள் உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="83">
+                <source>Maximum Exceeded</source>
+                <target>அதிகபட்ச அளவை கடந்துவிட்டது</target>
+            </trans-unit>
+            <trans-unit id="84">
+                <source>Number of Rating Method Items can not be blank.</source>
+                <target>மதிப்பீடு முறை விடயங்கள் எண்ணிக்கை காலியாக இருக்க முடியாது.</target>
+            </trans-unit>
+            <trans-unit id="85">
+                <source>Number of Rating Method Items should be a numeric value.</source>
+                <target>மதிப்பீடு முறை விடயங்கள் எண்ணிக்கை ஒரு எண் மதிப்பு இருக்க வேண்டும்.</target>
+            </trans-unit>
+            <trans-unit id="86">
+                <source>Please select Rating Method</source>
+                <target>மதிப்பீடு முறை தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="87">
+                <source>Are you sure want to Generate Items ?</source>
+                <target>நிச்சயமாக பொருட்களை உருவாக்குதல் வேண்டும் உள்ளன?</target>
+            </trans-unit>
+            <trans-unit id="88">
+                <source>Do you really want to delete?</source>
+                <target>உண்மையில் நீங்கள் நீக்க விரும்புகிறீர்களா?</target>
+            </trans-unit>
+            <trans-unit id="89">
+                <source>Please remove Last Rate Item first.</source>
+                <target>முதல் கடைசி விகிதம் பொருள் அகற்றவும்.</target>
+            </trans-unit>
+            <trans-unit id="90">
+                <source>Rating Method Items Grades can not be blank</source>
+                <target>மதிப்பீடு முறை விடயங்கள் தரங்கள் காலியாக இருக்க முடியாது</target>
+            </trans-unit>
+            <trans-unit id="91">
+                <source>Rating Method Items Marks can not be blank</source>
+                <target>மதிப்பீடு முறை விடயங்கள் மார்க்ஸ் காலியாக இருக்க முடியாது</target>
+            </trans-unit>
+            <trans-unit id="92">
+                <source>Rating Method Items Description can not be blank</source>
+                <target>மதிப்பீடு முறை விடயங்கள் குறிப்பு காலியாக இருக்க முடியாது</target>
+            </trans-unit>
+            <trans-unit id="93">
+                <source>No SDO Projects are assigned to employee</source>
+                <target>இல்லை SDO செயற்திட்டங்கள் ஊழியர் அளிக்கப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="94">
+                <source>Subordinates Evaluation not completed. Can not continue.</source>
+                <target>துணை மதிப்பீடு முடிக்கவில்லை. தொடர முடியாது.</target>
+            </trans-unit>
+            <trans-unit id="95">
+                <source>Projects Suggested Rate should be equal to 100</source>
+                <target>திட்டங்கள் விகிதம் 100 சமமாக இருக்க வேண்டும் பரிந்துரைக்கப்படும்</target>
+            </trans-unit>
+            <trans-unit id="96">
+                <source>Please calculate Duty Evaluation.</source>
+                <target>வரி மதிப்பீட்டு கணக்கிட தயவு செய்து.</target>
+            </trans-unit>
+            <trans-unit id="99">
+                <source>Please calculate Project Evaluation.</source>
+                <target>திட்ட மதிப்பீட்டு கணக்கிட தயவு செய்து.</target>
+            </trans-unit>
+            <trans-unit id="100">
+                <source>Please calculate Duty Evaluation.</source>
+                <target>வரி மதிப்பீட்டு கணக்கிட தயவு செய்து.</target>
+            </trans-unit>
+            <trans-unit id="101">
+                <source>Please calculate SDO Project Evaluation.</source>
+                <target>SDO திட்ட மதிப்பீட்டு கணக்கிட தயவு செய்து.</target>
+            </trans-unit>
+            <trans-unit id="102">
+                <source>Please calculate Duty Evaluation.</source>
+                <target>வரி மதிப்பீட்டு கணக்கிட தயவு செய்து.</target>
+            </trans-unit>
+            <trans-unit id="103">
+                <source>Please enter digits</source>
+                <target>இலக்கங்கள் உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="104">
+                <source>No invalid characters are allowed</source>
+                <target>இல்லை தவறான எழுத்துக்கள் அனுமதி</target>
+            </trans-unit>
+            <trans-unit id="105">
+                <source>Employee not assigned any duty</source>
+                <target>பணியாளர் எந்த கடமை ஒதுக்கப்படாத</target>
+            </trans-unit>
+            <trans-unit id="106">
+                <source>Duty Rates can not be blank</source>
+                <target>கடமை கட்டணங்கள் காலியாக இருக்க முடியாது</target>
+            </trans-unit>
+            <trans-unit id="107">
+                <source>Employee not assigned any project</source>
+                <target>பணியாளர் எந்த திட்டம் ஒதுக்கப்படாத</target>
+            </trans-unit>
+            <trans-unit id="108">
+                <source>Projects weightage can not be blank</source>
+                <target>திட்டங்கள் weightage காலியாக இருக்க முடியாது</target>
+            </trans-unit>
+            <trans-unit id="109">
+                <source>Projects weightage should be equal to 100</source>
+                <target>திட்டங்கள் weightage 100 சமமாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="110">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="111">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="113">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="114">
+                <source>Duty Weightage Total should equal to 100</source>
+                <target>கடமை Weightage மொத்தம் 100 சமமாக வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="115">
+                <source>Select the field to search</source>
+                <target>தேட துறை தேர்வு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Successfully Added</source>
+                <target>வெற்றிகரமாக சேர்க்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Can not update. Record locked by another user.</source>
+                <target>புதுப்பிக்க முடியாது. மற்றொரு பயனர் மூடப்பட்ட பதிவு.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Successfully Updated</source>
+                <target>வெற்றிகரமாக புதுப்பிக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Successfully Deleted</source>
+                <target>வெற்றிகரமாக நீக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Some records can not be deleted. Records locked by another user.</source>
+                <target>சில பதிவுகளை நீக்க முடியாது. மற்றொரு பயனர் மூடப்பட்ட பதிவுகள்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Can not delete. Records locked by another user</source>
+                <target>நீக்க முடியாது. மற்றொரு பயனர் மூடப்பட்ட பதிவுகள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Select at least one record to delete</source>
+                <target>நீக்க குறைந்தது ஒரு பதிவு தேர்வு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Select a field to search</source>
+                <target>தேட ஒரு துறை தேர்வு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Some employee(s) were not added due to the Company Evaluation not defined for their Designation,Level,Service and Job Role.</source>
+                <target>சில ஊழியர் (கள்) அவர்களின் பதவி, நிலை, சேவை மற்றும் வேலை பாத்திரம் வரையறை இல்லை நிறுவன மதிப்பீட்டு காரணமாக சேர்க்கவில்லை.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Can not update the evaluation since the evalaution already started</source>
+                <target>Evalaution ஏற்கனவே ஆரம்பித்ததில் இருந்து மதிப்பீடு புதுப்பிக்க முடியாது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Company Evaluation</source>
+                <target>நிறுவனம் மதிப்பீடு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Admin not allowed to perform Evaluation.</source>
+                <target>நிர்வாகம் மதிப்பீடு செய்ய அனுமதி இல்லை.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select an Evaluation.</source>
+                <target>ஒரு மதிப்பீட்டு தேர்வு செய்யவும்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select an Evaluation Type.</source>
+                <target>ஒரு மதிப்பீட்டு வகை தேர்ந்தெடுக்கவும்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select an Employee.</source>
+                <target>ஒரு பணியாளர் தேர்வு செய்யவும்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Successfully</source>
+                <target>வெற்றிகரமாக</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select Evaluation</source>
+                <target>மதிப்பீட்டு தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select Evaluation Type</source>
+                <target>மதிப்பீட்டு வகை தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please enter search value</source>
+                <target>தேடல் மதிப்பை உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select the search mode</source>
+                <target>தேடல் முறையில் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Type is required </source>
+                <target>வகை தேவைப்படுகிறது விட்டு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Special characters are not allowed</source>
+                <target>சிறப்பு எழுத்துகள் அனுமதி இல்லை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Change Supervisor</source>
+                <target>மேற்பார்வையாளர் மாற்ற</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Get Immediate Supervisor</source>
+                <target>உடனடி மேற்பார்வையாளர் கிடைக்கும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Individual</source>
+                <target>தனிப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Supervisor not assigned for evaluation</source>
+                <target>மேற்பார்வையாளர் மதிப்பீட்டிற்கு ஒதுக்கப்படாத</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Not saved employee</source>
+                <target>பணியாளர் சேமிக்கப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Not Assigned</source>
+                <target>ஒதுக்கப்படாத</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Individual supervisor</source>
+                <target>தனிப்பட்ட மேற்பார்வையாளர்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Evaluation is required </source>
+                <target>மதிப்பீட்டு தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select an employee as a supervisor.</source>
+                <target>ஒரு மேற்பார்வையாளர் ஒரு பணியாளர் தேர்வு செய்யவும்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select the supervisor(s) before save</source>
+                <target>காப்பாற்ற முன் மேற்பார்வையாளர் (கள்) தேர்வு செய்யவும்</target>
+            </body>
+                <trans-unit id="116">
+                <source>Some employees are not assigned supervisors.</source>
+                <target>சோமே  எம்ப்லோயீஸ்  ஆர்  நாட்  அச்சிக்னேத்  சுபெர்விசொர்ஸ்.</target>
+            </body>             
+        </file>
+    </xliff>

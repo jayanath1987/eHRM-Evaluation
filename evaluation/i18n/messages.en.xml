@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Company Evaluation Information Summary</source>
+                <target>Company Evaluation Information Summary</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Define Company Evaluation Information</source>
+                <target>Define Company Evaluation Information</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Edit Comopany Evaluation Information</source>
+                <target>Edit Comopany Evaluation Information</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Evaluation Summary</source>
+                <target>Evaluation Summary</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>Define Evaluation</source>
+                <target>Define Evaluation</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Edit  Evaluation</source>
+                <target>Edit  Evaluation</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>Evaluation Code</source>
+                <target>Evaluation Code</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Evaluation Name</source>
+                <target>Evaluation Name</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Evaluation Description</source>
+                <target>Evaluation Description</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Evaluation Year</source>
+                <target>Evaluation Year</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Overall Rating</source>
+                <target>Overall Rating</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>Evaluation</source>
+                <target>Evaluation</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>Designation</source>
+                <target>Designation</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>Level</source>
+                <target>Level</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Service</source>
+                <target>Service</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>Job Role</source>
+                <target>Job Role</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>Weightage</source>
+                <target>Weightage</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>Evaluation Id</source>
+                <target>Evaluation Id</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>Active</source>
+                <target>Active</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>Inactive</source>
+                <target>Inactive</target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>JobTitle</source>
+                <target>JobTitle</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>Service Name</source>
+                <target>Service Name</target>
+            </trans-unit>
+            <trans-unit id="23">
+                <source>Project Weightage</source>
+                <target>Project Weightage</target>
+            </trans-unit>
+            <trans-unit id="24">
+                <source>Duties Weightage</source>
+                <target>Duties Weightage</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Select the field to search</source>
+                <target>Select the field to search</target>
+            </trans-unit>            
+            <trans-unit id="1">
+                <source>Successfully Added</source>
+                <target>Successfully Added</target>
+            </trans-unit>                
+            <trans-unit id="1">
+                <source>Can not update. Record locked by another user.</source>
+                <target>Can not update. Record locked by another user.</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Successfully Updated</source>
+                <target>Successfully Updated</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Successfully Deleted</source>
+                <target>Successfully Deleted</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Some records are can not be deleted as them  Locked by another user </source>
+                <target>Some records are can not be deleted as them  Locked by another user </target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Can not delete as them  Locked by another user </source>
+                <target>Can not delete as them  Locked by another user </target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Select at least one record to delete</source>
+                <target>Select at least one record to delete</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Select the field to search</source>
+                <target>Select the field to search</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Some employee(s) were not added due to the company evaluation not defined for their designation,level,service and job role.</source>
+                <target>Some employee(s) were not added due to the company evaluation not defined for their designation,level,service and job role.</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Can not be Update Evaluation This used in  calculate Perforamance Process.</source>
+                <target>Can not be Update Evaluation This used in  calculate Perforamance Process.</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Successfully</source>
+                <target>Successfully</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Some employees are not assigned supervisors.</source>
+                <target>Some employees are not assigned supervisors.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
